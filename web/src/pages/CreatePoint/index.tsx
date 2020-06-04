@@ -68,7 +68,7 @@ const CreatePoint = () => {
             <div className="field">
               <label htmlFor="whatsapp">Whatsapp</label>
               <input
-                type="number"
+                type="text"
                 name="whatsapp"
                 id="whatsapp"
               />
